@@ -1,1 +1,2 @@
 Learning Git is fun
+This is second line of notes2
